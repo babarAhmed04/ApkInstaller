@@ -1,0 +1,16 @@
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\bin\Debug\net8.0-windows\ApkInstaller.exe
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\bin\Debug\net8.0-windows\ApkInstaller.deps.json
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\bin\Debug\net8.0-windows\ApkInstaller.runtimeconfig.json
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\bin\Debug\net8.0-windows\ApkInstaller.dll
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\bin\Debug\net8.0-windows\ApkInstaller.pdb
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.Form1.resources
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.csproj.GenerateResource.cache
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.GeneratedMSBuildEditorConfig.editorconfig
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.AssemblyInfoInputs.cache
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.AssemblyInfo.cs
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.csproj.CoreCompileInputs.cache
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.dll
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\refint\ApkInstaller.dll
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.pdb
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ApkInstaller.genruntimeconfig.cache
+K:\Playground\ApkInstaller\ApkInstaller\ApkInstaller\obj\Debug\net8.0-windows\ref\ApkInstaller.dll
